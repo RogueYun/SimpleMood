@@ -19,7 +19,7 @@ You don't have to make these, but I also recommend changing the following values
   - TREE_CAP_PILLAR:10
   - TREE_CAP_PILLAR_DEAD:10
 
-You are also welcome to use my recommended color scheme by copying the unzipped data/init/color.txt your Dwarf Fortress counterpart after making the appropriate backup.
+You are also welcome to use my recommended color scheme by copying the unzipped data/init/color.txt to your Dwarf Fortress counterpart, after making the appropriate backups of course.
 
 #Easy Installation Instructions (Not recommended)
 ------------------------------------------------
